@@ -90,5 +90,5 @@ jobs:
         event-type: Source Code Update
 
     - name: Delete workflow runs
-      uses: Aqian8888/delete-workflow-runs@main
+      uses: AQian1997/delete-workflow-runs@main
 
